@@ -1,0 +1,19 @@
+#param1 {
+    background-color:blue
+}
+#param2 {
+    background-color:blue;
+    text-align:center;
+    color:whitesmoke;
+    border-color:green;
+    border-style:dotted;
+    border-width:1px;
+}
+body {
+    margin: 25px 50px 75px 100px;
+    /*background-image:url("http://cdn.kormedi.com/wp-content/uploads/2021/09/gettyimages-1189095854.jpg");*/
+    background-repeat: no-repeat
+}
+.col-2 {
+    border-style: dotted dashed solid double;
+}
